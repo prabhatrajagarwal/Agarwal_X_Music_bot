@@ -1,5 +1,5 @@
 ki<h2 align="center">
-    ──「 LB Music 」──
+    ──「Prabhat Raj Agarwal」──
 </h2>
 
 <p align="center">
@@ -28,4 +28,4 @@ ki<h2 align="center">
 <a href="https://t.me/masttikiduniya"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/Prabhat Raj Agarwal) ғᴏʀ [ᴀɴᴏɴx ᴍᴜsɪᴄ](https://github.com/prabhatraj9935/Agarwal_X_Music)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/Prabhat Raj Agarwal) ғᴏʀ [Agarwal X Misic](https://github.com/prabhatraj9935/Agarwal_X_Music)_ </b>
